@@ -1,8 +1,3 @@
-<img src="https://github.com/suuuyin/my-resume/blob/main/6570-0907318606%20%E6%8B%B7%E8%B2%9D.jpg?raw=true" alt="陳淑瀅" style="float: right; width: 150px; margin-left: 20px;">
-
-| ![陳淑瀅]((https://github.com/suuuyin/my-resume/blob/main/6570-0907318606%20%E6%8B%B7%E8%B2%9D.jpg?raw=true)) | **陳淑瀅的履歷**  |
-|--------------------|---------------------|
-
 # 陳淑瀅的履歷
 
 ## 自我介紹
