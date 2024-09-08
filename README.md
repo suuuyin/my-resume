@@ -1,9 +1,5 @@
 # 陳淑瀅的履歷
 
-<img src="<img src="your-image-url.jpg" alt="陳淑瀅" style="float: right; width: 150px; margin-left: 20px;">
-
-# 陳淑瀅的履歷
-
 ## 自我介紹
 **姓名**: 陳淑瀅  
 **就業狀態**: 在職中  
