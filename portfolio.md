@@ -1,7 +1,7 @@
 # 我的作品集
 
 ## 網站
-[描述项目 1 的详细信息和链接。](https://luna31797.wixsite.com/my-site-2)
+[王子神谷日式厚鬆餅 一中店](https://luna31797.wixsite.com/my-site-2)
 
 ## 项目 2
 描述项目 2 的详细信息和链接。
